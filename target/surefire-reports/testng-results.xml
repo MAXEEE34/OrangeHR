@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-11T21:23:06 IST" name=" Master Suite" finished-at="2025-02-11T21:23:40 IST" duration-ms="34613">
+  <suite started-at="2025-02-14T22:58:47 IST" name=" Master Suite" finished-at="2025-02-14T22:59:17 IST" duration-ms="30351">
     <groups>
       <group name="regression">
-        <method signature="TC001_LoginPage.loginpage()[pri:0, instance:TestCases.TC001_LoginPage@7cc0cdad]" name="loginpage" class="TestCases.TC001_LoginPage"/>
+        <method signature="TC001_LoginPage.loginpage()[pri:0, instance:TestCases.TC001_LoginPage@742ff096]" name="loginpage" class="TestCases.TC001_LoginPage"/>
       </group> <!-- regression -->
       <group name="sanity">
-        <method signature="TC002_loginTest.loginverify()[pri:0, instance:TestCases.TC002_loginTest@34a3d150]" name="loginverify" class="TestCases.TC002_loginTest"/>
+        <method signature="TC002_loginTest.loginverify()[pri:0, instance:TestCases.TC002_loginTest@4b013c76]" name="loginverify" class="TestCases.TC002_loginTest"/>
       </group> <!-- sanity -->
       <group name="master">
-        <method signature="TC001_LoginPage.loginpage()[pri:0, instance:TestCases.TC001_LoginPage@7cc0cdad]" name="loginpage" class="TestCases.TC001_LoginPage"/>
-        <method signature="TC002_loginTest.loginverify()[pri:0, instance:TestCases.TC002_loginTest@34a3d150]" name="loginverify" class="TestCases.TC002_loginTest"/>
+        <method signature="TC001_LoginPage.loginpage()[pri:0, instance:TestCases.TC001_LoginPage@742ff096]" name="loginpage" class="TestCases.TC001_LoginPage"/>
+        <method signature="TC002_loginTest.loginverify()[pri:0, instance:TestCases.TC002_loginTest@4b013c76]" name="loginverify" class="TestCases.TC002_loginTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2025-02-11T21:23:06 IST" name="Test" finished-at="2025-02-11T21:23:40 IST" duration-ms="34613">
+    <test started-at="2025-02-14T22:58:47 IST" name="Test" finished-at="2025-02-14T22:59:17 IST" duration-ms="30351">
       <class name="TestCases.TC001_LoginPage">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC001_LoginPage@7cc0cdad]" started-at="2025-02-11T21:23:21 IST" name="setup" finished-at="2025-02-11T21:23:33 IST" duration-ms="11830" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC001_LoginPage@742ff096]" started-at="2025-02-14T22:59:06 IST" name="setup" finished-at="2025-02-14T22:59:15 IST" duration-ms="8614" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,13 +33,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginpage()[pri:0, instance:TestCases.TC001_LoginPage@7cc0cdad]" started-at="2025-02-11T21:23:33 IST" name="loginpage" finished-at="2025-02-11T21:23:40 IST" duration-ms="6977" status="PASS">
+        <test-method signature="loginpage()[pri:0, instance:TestCases.TC001_LoginPage@742ff096]" started-at="2025-02-14T22:59:15 IST" name="loginpage" finished-at="2025-02-14T22:59:17 IST" duration-ms="2876" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpage -->
       </class> <!-- TestCases.TC001_LoginPage -->
       <class name="TestCases.TC002_loginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_loginTest@34a3d150]" started-at="2025-02-11T21:23:06 IST" name="setup" finished-at="2025-02-11T21:23:17 IST" duration-ms="11395" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC002_loginTest@4b013c76]" started-at="2025-02-14T22:58:48 IST" name="setup" finished-at="2025-02-14T22:59:02 IST" duration-ms="14183" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -55,7 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginverify()[pri:0, instance:TestCases.TC002_loginTest@34a3d150]" started-at="2025-02-11T21:23:17 IST" name="loginverify" finished-at="2025-02-11T21:23:21 IST" duration-ms="3857" status="PASS">
+        <test-method signature="loginverify()[pri:0, instance:TestCases.TC002_loginTest@4b013c76]" started-at="2025-02-14T22:59:02 IST" name="loginverify" finished-at="2025-02-14T22:59:06 IST" duration-ms="4147" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginverify -->

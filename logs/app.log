@@ -46,3 +46,7 @@
 2025-02-11 21:23:21 [main] INFO  TestCases.TC002_loginTest - ending test case 2
 2025-02-11 21:23:33 [main] INFO  TestCases.TC001_LoginPage -  starting TestCase 1
 2025-02-11 21:23:40 [main] INFO  TestCases.TC001_LoginPage - test case ended 1
+2025-02-14 22:59:02 [main] INFO  TestCases.TC002_loginTest -  starting TestCase 2
+2025-02-14 22:59:06 [main] INFO  TestCases.TC002_loginTest - ending test case 2
+2025-02-14 22:59:15 [main] INFO  TestCases.TC001_LoginPage -  starting TestCase 1
+2025-02-14 22:59:17 [main] INFO  TestCases.TC001_LoginPage - test case ended 1
